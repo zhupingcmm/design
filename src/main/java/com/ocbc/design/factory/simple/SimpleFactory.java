@@ -1,8 +1,7 @@
 package com.ocbc.design.factory.simple;
 
-import com.ocbc.design.factory.CarFactory;
-import com.ocbc.design.factory.service.AODIFactory;
-import com.ocbc.design.factory.service.BBAFactory;
+import com.ocbc.design.factory.simple.service.AODIFactory;
+import com.ocbc.design.factory.simple.service.BBAFactory;
 
 /**
  * @Author: pzhu

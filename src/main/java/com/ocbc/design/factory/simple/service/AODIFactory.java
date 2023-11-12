@@ -1,6 +1,6 @@
-package com.ocbc.design.factory.service;
+package com.ocbc.design.factory.simple.service;
 
-import com.ocbc.design.factory.CarFactory;
+import com.ocbc.design.factory.simple.CarFactory;
 
 /**
  * @Author: pzhu

@@ -1,6 +1,6 @@
 package com.ocbc.design.factory.simple;
 
-import com.ocbc.design.factory.service.AODIFactory;
+import com.ocbc.design.factory.simple.service.AODIFactory;
 
 /**
  * @Author: pzhu

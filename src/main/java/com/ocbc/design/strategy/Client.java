@@ -14,7 +14,8 @@ public class Client {
     public static void main(String[] args) {
 
 
-        List<Receipt> receipts = ReceiptBuilder.generateReceiptList();
+        List
+                <Receipt> receipts = ReceiptBuilder.generateReceiptList();
 
         ReceiptStrategyContext context = new ReceiptStrategyContext();
         for (Receipt receipt : receipts) {

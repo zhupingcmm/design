@@ -1,4 +1,4 @@
-package com.ocbc.design.factory;
+package com.ocbc.design.factory.simple;
 
 /**
  * @Author: pzhu
